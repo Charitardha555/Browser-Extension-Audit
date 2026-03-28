@@ -1,4 +1,4 @@
-# Elevate-labs-Cybersecurity-Task-07
+# Browser Extension Audit
 A repository for the task 07 from the Elevate labs, Cybersecurity
 
 # 🌐 Cybersecurity Internship Task 7 – Browser Extension Audit
